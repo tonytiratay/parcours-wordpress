@@ -1,4 +1,4 @@
-# S1 -Le web et les CMS
+# Le web et les CMS
 
 
 ## Objectifs pédagogiques
@@ -20,7 +20,7 @@
 * Quizz sur le fonctionnement général d’un site  internet
 
 
-# S2 - Découverte de Wordpress
+# Découverte de Wordpress
 
 
 ## Objectifs pédagogiques
@@ -60,7 +60,7 @@
 
 
 
-# S3 - Rendre son site participatif et le sécuriser
+# Rendre son site participatif et le sécuriser
 
 
 ## Objectifs pédagogiques
@@ -89,9 +89,9 @@
 ## Modalité d’évaluation
 
 * Évaluer le travail d’un pair en endossant le rôle du client
- 
 
-# S4 - Enrichir son site grâce aux extensions
+
+# Enrichir son site grâce aux extensions
 
 ## Objectifs pédagogiques
 
@@ -120,7 +120,7 @@
 * Argumenter
 
 
-# S6/7 - Pratiquer les extensions
+# Pratiquer les extensions
 
 ## Objectifs pédagogiques
 
@@ -152,7 +152,7 @@
 
 
 
-# S8 - Mise en production
+# Mise en production
 
 
 ## Objectifs pédagogiques
@@ -184,7 +184,7 @@
 
 
 
-# S9 - Personnaliser les thèmes
+# Personnaliser les thèmes
 
 
 ## Objectifs pédagogiques
@@ -219,7 +219,7 @@ Attributs de mise en forme est comprise
 
 
 
-# S10 - Travailler en équipe
+# Travailler en équipe
 
 
 ## Objectifs pédagogiques
@@ -248,7 +248,7 @@ Attributs de mise en forme est comprise
 
 
 
-# S11 - Tester d’autres CMS
+# Tester d’autres CMS
 
 
 ## Objectifs pédagogiques
@@ -271,7 +271,7 @@ Attributs de mise en forme est comprise
 * Rendre compte des difficultés rencontrées
 
 
-# S12 - Apprendre à communiquer un projet
+# Apprendre à communiquer un projet
 
 
 ## Objectifs pédagogiques
