@@ -1,6 +1,6 @@
-# Le web et les CMS
+# S1 -Le web et les CMS
 
-Semaine 1
+
 ## Objectifs pédagogiques
 
 * Comprendre les CMS
@@ -20,8 +20,8 @@ Semaine 1
 * Quizz sur le fonctionnement général d’un site  internet
 
 
-# Découverte de Wordpress
-Semaine 2 & 3
+# S2 - Découverte de Wordpress
+
 
 ## Objectifs pédagogiques
 
@@ -60,8 +60,8 @@ Semaine 2 & 3
 
 
 
-# Rendre son site participatif et le sécuriser
-Semaine 4
+# S3 - Rendre son site participatif et le sécuriser
+
 
 ## Objectifs pédagogiques
 
@@ -90,7 +90,7 @@ Semaine 4
 
 * Évaluer le travail d’un pair en endossant le rôle du client
 
-# Semaine 5 - Enrichir son site grâce aux extensions
+# S4 - Enrichir son site grâce aux extensions
 
 ## Objectifs pédagogiques
 
@@ -119,8 +119,7 @@ Semaine 4
 * Argumenter
 
 
-# Pratiquer les extensions
-Semaine 6 & 7
+# S6/7 - Pratiquer les extensions
 
 ## Objectifs pédagogiques
 
@@ -152,8 +151,8 @@ Semaine 6 & 7
 
 
 
-# Mise en production
-Semaine 8
+# S8 - Mise en production
+
 
 ## Objectifs pédagogiques
 
@@ -184,8 +183,8 @@ Semaine 8
 
 
 
-# Personnaliser les thèmes
-Semaine 9
+# S9 - Personnaliser les thèmes
+
 
 ## Objectifs pédagogiques
 
@@ -219,8 +218,8 @@ Attributs de mise en forme est comprise
 
 
 
-# Travailler en équipe
-Semaine 10
+# S10 - Travailler en équipe
+
 
 ## Objectifs pédagogiques
 
@@ -248,8 +247,8 @@ Semaine 10
 
 
 
-# Tester d’autres CMS
-Semaine 11
+# S11 - Tester d’autres CMS
+
 
 ## Objectifs pédagogiques
 
@@ -271,8 +270,8 @@ Semaine 11
 * Rendre compte des difficultés rencontrées
 
 
-# Apprendre à communiquer un projet
-Semaine 12
+# S12 - Apprendre à communiquer un projet
+
 
 ## Objectifs pédagogiques
 
