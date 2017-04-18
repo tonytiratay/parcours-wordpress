@@ -89,7 +89,8 @@
 ## Modalité d’évaluation
 
 * Évaluer le travail d’un pair en endossant le rôle du client
-
+ 
+
 # S4 - Enrichir son site grâce aux extensions
 
 ## Objectifs pédagogiques
