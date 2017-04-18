@@ -1,20 +1,20 @@
 # Le web et les CMS
 
 
-## Objectifs pédagogiques
+## S1 - Objectifs pédagogiques
 
 * Comprendre les CMS
 * Comprendre le fonctionnement d’un site internet
 * Comprendre le fonctionnement de Wordpress
 
-## Critères d’évaluation
+## S1 - Critères d’évaluation
 
 * Bitnami Wordpress est installé sur la machine
 * Le CMS est installé et relié à la base de données
 * Les serveur Apache et MySql sont lancés
 
 
-## Modalité d’évaluation
+## S1 - Modalité d’évaluation
 
 * Vérification sur la machine par l’animateur
 * Quizz sur le fonctionnement général d’un site  internet
@@ -23,7 +23,7 @@
 # Découverte de Wordpress
 
 
-## Objectifs pédagogiques
+## S2 - Objectifs pédagogiques
 
 * Configurer globalement un CMS
 * Ajouter du contenu à un site internet
@@ -32,7 +32,7 @@
 * Créer des menus / liens
 * Modifier l’apparence d’un site
 
-## Critères d’évaluation
+## S2 - Critères d’évaluation
 
 * Vérification des réglages de base
 * Taxonomie (les tags et catégories demandées ont été créés)
@@ -53,7 +53,7 @@
 * Le thème utilise un menu comme demandé par le cahier des charges
 
 
-## Modalité d’évaluation
+## S2 - Modalité d’évaluation
 
 * Créer un site vitrine pour un écrivain / critique à partir d’un cahier des charges
 * Présenter son travail au client (l’animateur)
@@ -63,14 +63,14 @@
 # Rendre son site participatif et le sécuriser
 
 
-## Objectifs pédagogiques
+## S3 et 4 - Objectifs pédagogiques
 
 * Comprendre les intérêts / risques des commentaires
 * Comprendre la gestion des utilisateurs dans Wordpress
 * Éviter / limiter les spams
 * Sécuriser ses contenus grâce aux sauvegardes
 
-## Critères d’évaluation
+## S3 et 4 - Critères d’évaluation
 
 **Site participatif**
 
@@ -86,21 +86,21 @@
 * Une sauvegarde de la base de données est faite
 * Une sauvegarde complète est faite
 
-## Modalité d’évaluation
+## S3 et 4 - Modalité d’évaluation
 
 * Évaluer le travail d’un pair en endossant le rôle du client
 
 
 # Enrichir son site grâce aux extensions
 
-## Objectifs pédagogiques
+## S5 - Objectifs pédagogiques
 
 * Étendre les fonctionnalités d’un CMS
 * Chercher la bonne extension pour son projet
 * Tester des extensions sans risque pour son site
 * Comprendre comment créer une extension
 
-## Critères d’évaluation
+## S5 - Critères d’évaluation
 
 **Ajouter des extensions**
 
@@ -113,7 +113,7 @@
 * Wordpress, ses extensions et thèmes sont tous dans la dernière version disponible
 * L’apprenant peut présenter au moins un site qui présente de nouvelles extensions
 
-## Modalité d’évaluation
+## S5 - Modalité d’évaluation
 
 * Tester une extension  pour répondre à un besoin particulier, individuellement ou à 2
 * Présenter à la classe l’extension choisie pour répondre au besoin
@@ -122,7 +122,7 @@
 
 # Pratiquer les extensions
 
-## Objectifs pédagogiques
+## S6 - Objectifs pédagogiques
 
 * Découvrir les extensions Wordpress incontournables
 * Comprendre le fonctionnement d’une boutique en ligne
@@ -130,7 +130,7 @@
 * Identifier et comprendre les principes d’ergonomie
 * Comprendre le référencement
 
-## Critères d’évaluation
+## S6 - Critères d’évaluation
 
 **Les extensions suivantes sont installées et configurées selon le cahier des charges**
 
@@ -141,7 +141,7 @@
 * SEO Pack / Les méta-données des produits sont bien renseignées
 
 
-## Modalité d’évaluation
+## S6 - Modalité d’évaluation
 
 * Selon un cahier des charges
 * Créer une landing page pour un produit
@@ -155,7 +155,7 @@
 # Mise en production
 
 
-## Objectifs pédagogiques
+## S7 - Objectifs pédagogiques
 
 * Comprendre les principes de mise en ligne d’un site
 * Comprendre les principes de mise en ligne d’un CMS
@@ -163,7 +163,7 @@
 * Comprendre le principe du versionning
 * Comprendre les outils de suivi et d’analyses
 
-## Critères d’évaluation
+## S7 - Critères d’évaluation
 
 **Exploiter son site**
 
@@ -178,7 +178,7 @@
 * La boutique crée en local est disponible en ligne
 
 
-## Modalité d’évaluation
+## S7 - Modalité d’évaluation
 
 * Validation par l’animateur sur le poste de l’apprenant
 
@@ -187,13 +187,13 @@
 # Personnaliser les thèmes
 
 
-## Objectifs pédagogiques
+## S8 et 9 - Objectifs pédagogiques
 
 * Comprendre le fonctionnement des langages front (HTML / CSS / Javascript)
 * Comprendre le fonctionnement du php
 * Modifier un thème Wordpress
 
-## Critères d’évaluation
+## S8 et 9 - Critères d’évaluation
 
 **Découverte du code.**
 
@@ -213,7 +213,7 @@ Attributs de mise en forme est comprise
 
 
 
-## Modalité d’évaluation
+## S8 et 9 - Modalité d’évaluation
 
 * Vérification par les apprenants
 
@@ -222,7 +222,7 @@ Attributs de mise en forme est comprise
 # Travailler en équipe
 
 
-## Objectifs pédagogiques
+## S10 - Objectifs pédagogiques
 
 * Comprendre Git & Github
 * Comprendre l’intérêt du versionning
@@ -230,7 +230,7 @@ Attributs de mise en forme est comprise
 * Capacité à collaborer et communiquer sur le développement des applications web avec d’autres développeurs
 * Comprendre le flux de travail d’une équipe de développeurs
 
-## Critères d’évaluation
+## S10 - Critères d’évaluation
 
 **Travailler en équipe**
 
@@ -240,7 +240,7 @@ Attributs de mise en forme est comprise
 * Le code est fonctionnel
 
 
-## Modalité d’évaluation
+## S10 - Modalité d’évaluation
 
 * Travailler par groupes de 2 ou 3
 * Le travail du groupe consiste à créer un thème modifié, installable par les autres
@@ -251,20 +251,20 @@ Attributs de mise en forme est comprise
 # Tester d’autres CMS
 
 
-## Objectifs pédagogiques
+## S11 - Objectifs pédagogiques
 
 * Comprendre les différences fondamentales entres les différents CMS
 * Choisir le bon CMS pour les besoins du projet
 * Utiliser la documentation du CMS pour se l’approprier
 
-## Critères d’évaluation
+## S11 - Critères d’évaluation
 
 **Identifier les CMS**
 
 * Choisir un CMS autre que Wordpress sur la base de fonctionnalités spécifiées
 * Mettre en place un site ou une application basique à partir de la documentation de ce CMS
 
-## Modalité d’évaluation
+## S11 - Modalité d’évaluation
 
 * Préparer une présentation de son site
 * Expliquer les choix techniques (notamment celui du CMS)
@@ -274,13 +274,13 @@ Attributs de mise en forme est comprise
 # Apprendre à communiquer un projet
 
 
-## Objectifs pédagogiques
+## S12 - Objectifs pédagogiques
 
 * Renforcer son autonomie
 * Exprimer des éléments techniques à des collaborateurs
 * Argumenter sa proposition auprès d’un client
 
-## Critères d’évaluation
+## S12 - Critères d’évaluation
 
 **Renforcer son autonomie**
 
@@ -297,7 +297,7 @@ Attributs de mise en forme est comprise
 * Identifier les points de vigilance sur un projet monté par un client
 * Expliquer les contraintes / avantages de l’outil à un client
 
-## Modalité d’évaluation
+## S12 - Modalité d’évaluation
 
 * Simulation d’un entretien d’équipe pour préparer un gros projet
 * Simulation d’une rencontre client ayant un projet qu’il souhaite monter
