@@ -80,7 +80,7 @@
     * Trouver et présenter la bonne extension
     * Créer une landing page pour un produit
     * Créer une boutique en ligne pour commander ce produit
-    * Configurer la boutique pour respecter les lois françaises (facture systématique, gestion de la TVA…)
+    * Configurer la boutique pour respecter les lois françaises
     * Optimiser sa boutique pour le référencement
 
 
@@ -169,6 +169,6 @@
 
   **Ateliers**
 
-     * Monter un site avec un autre CMS
-     * Créer un cahier des charges à partir d'une rencontre client
-     * Créer un site à partir d'un cahier des charges
+    * Monter un site avec un autre CMS
+    * Créer un cahier des charges à partir d'une rencontre client
+    * Créer un site à partir d'un cahier des charges
