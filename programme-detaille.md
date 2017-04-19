@@ -1,5 +1,5 @@
 # Le web et les CMS
-Semaine 1
+## Semaine 1
 
 **Objectifs Pédagogiques**
 
@@ -20,7 +20,7 @@ Semaine 1
     * Codecademy - HTML et CSS
 
 # Découverte de Wordpress
-Semaine 2, 3 et 4
+## Semaine 2, 3 et 4
 
 **Objectifs pédagogiques**
 
@@ -56,7 +56,7 @@ Semaine 2, 3 et 4
     * Expliquer les enjeux de sécurité à un client
 
 # Étendre son site
-Semaine 5 et 6
+## Semaine 5 et 6
 
 **Objectifs pédagogiques**
 
@@ -85,7 +85,7 @@ Semaine 5 et 6
 
 
 # Personnaliser et hacker Wordpress
-Semaines 7
+## Semaines 7
 
 **Objectifs pédagogiques**
 
@@ -106,7 +106,7 @@ Semaines 7
     * Personnaliser un thème
 
 # Mise en production et analyse
-Semaine 8
+## Semaine 8
 
 **Objectifs pédagogiques**
 
@@ -127,7 +127,7 @@ Semaine 8
     * Relier son site à Google Analytics
 
 # Travailler en équipe
-Semaine 9
+## Semaine 9
 
 **Objectifs pédagogiques**
 
@@ -151,7 +151,7 @@ Semaine 9
 
 
 # S'ouvrir au monde professionnel
-Semaine 10, 11 et 12
+## Semaine 10, 11 et 12
 
 **Objectifs pédagogiques**
 
