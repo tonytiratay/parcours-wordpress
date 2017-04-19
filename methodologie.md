@@ -2,6 +2,8 @@
 
 # Programme Classe en ligne
 
+## Introduction
+
 Vous trouverez ci dessous une description de la méthodologie Simplon, ainsi qu’un aperçu du déroulé de la formation.
 
 Pour connaitre le contenu détaillé de la formation, vous pouvez consulter la fiche "programme détaillé".
@@ -14,9 +16,11 @@ L’animateur est également là pour proposer à ceux qui en feront la demande 
 
 Le métier de développeur est, comme d’autres, particulier. De nouvelles technologies font sans cesse leur apparition, et celles déjà existantes sont en constante évolution. Nous considérons donc que le coeur de cette formation vise avant tout à fournir à nos apprenants une méthodologie d’apprentissage qui leur permette de continuer à évoluer dans ce milieu après la formation.
 
-L’apprentissage dans ce métier n’est jamais terminé, et ce n’est pas en 6 semaines, ni même en un an, que l’on peut prétendre en savoir suffisamment pour monter tout type de projet.
+L’apprentissage dans ce métier n’est jamais terminé, et ce n’est pas en 12 semaines, ni même en un an, que l’on peut prétendre en savoir suffisamment pour monter tout type de projet.
 
-Par contre, 6 semaines sont suffisantes pour apprendre à apprendre. La documentation des différentes ressources utilisées est votre meilleure alliée, et il n’existe pas de formation qui permette de s’en passer.
+Par contre, 12 semaines sont suffisantes pour apprendre à apprendre. La documentation des différentes ressources utilisées est votre meilleure alliée, et il n’existe pas de formation qui permette de s’en passer.
+
+## Le rôle de l'animateur
 
 Le rôle de l’animateur de la classe est donc double. Orienter les apprenants vers les bonnes ressources, et leur donner de la hauteur sur leur parcours et les différents chemins possibles pour parvenir à leurs ambitions.
 
@@ -32,7 +36,7 @@ Le rôle de l’animateur de la classe est donc double. Orienter les apprenants 
 
 * Quelqu’un qui peut conseiller un chemin ou une méthode
 
-#### Que faire en cas de blocage ?
+## Que faire en cas de blocage ?
 
 1. Je cherche par moi-même sur Google pour essayer de trouver une solution
 
@@ -42,7 +46,7 @@ Le rôle de l’animateur de la classe est donc double. Orienter les apprenants 
 
 Chaque semaine, un document de travail collaboratif est mis en place. Chaque apprenant peut écrire à l’intérieur de celui-ci le problème qu’il a rencontré. Il devra y préciser les démarches qu’il a fait pour essayer de se débloquer (rechercher individuelle, et demande à la communauté). Chaque semaine, l’animateur, après avoir consulté ce document, reprend les interrogations / incompréhensions pour les clarifier au mieux.
 
-#### Pourquoi cette méthode ?
+## Pourquoi cette méthode ?
 
 Une fois la formation terminée, les blocages ne s’arrêteront pas pour autant. Il est primordial qu’une des premières compétences acquises soit la formulation correcte et explicite du problème rencontré.
 
