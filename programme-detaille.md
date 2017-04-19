@@ -23,7 +23,7 @@
 # Découverte de Wordpress
 
 
-## S2 - Objectifs pédagogiques
+## S2 et 3 - Objectifs pédagogiques
 
 * Configurer globalement un CMS
 * Ajouter du contenu à un site internet
@@ -32,7 +32,7 @@
 * Créer des menus / liens
 * Modifier l’apparence d’un site
 
-## S2 - Critères d’évaluation
+## S2 et 3 - Critères d’évaluation
 
 * Vérification des réglages de base
 * Taxonomie (les tags et catégories demandées ont été créés)
@@ -53,7 +53,7 @@
 * Le thème utilise un menu comme demandé par le cahier des charges
 
 
-## S2 - Modalité d’évaluation
+## S2 et 3 - Modalité d’évaluation
 
 * Créer un site vitrine pour un écrivain / critique à partir d’un cahier des charges
 * Présenter son travail au client (l’animateur)
@@ -63,14 +63,14 @@
 # Rendre son site participatif et le sécuriser
 
 
-## S3 et 4 - Objectifs pédagogiques
+## S4 - Objectifs pédagogiques
 
 * Comprendre les intérêts / risques des commentaires
 * Comprendre la gestion des utilisateurs dans Wordpress
 * Éviter / limiter les spams
 * Sécuriser ses contenus grâce aux sauvegardes
 
-## S3 et 4 - Critères d’évaluation
+## S4 - Critères d’évaluation
 
 **Site participatif**
 
@@ -86,7 +86,7 @@
 * Une sauvegarde de la base de données est faite
 * Une sauvegarde complète est faite
 
-## S3 et 4 - Modalité d’évaluation
+## S4 - Modalité d’évaluation
 
 * Évaluer le travail d’un pair en endossant le rôle du client
 
@@ -122,7 +122,7 @@
 
 # Pratiquer les extensions
 
-## S6 - Objectifs pédagogiques
+## S6 et 7 - Objectifs pédagogiques
 
 * Découvrir les extensions Wordpress incontournables
 * Comprendre le fonctionnement d’une boutique en ligne
@@ -130,7 +130,7 @@
 * Identifier et comprendre les principes d’ergonomie
 * Comprendre le référencement
 
-## S6 - Critères d’évaluation
+## S6 et 7 - Critères d’évaluation
 
 **Les extensions suivantes sont installées et configurées selon le cahier des charges**
 
@@ -141,7 +141,7 @@
 * SEO Pack / Les méta-données des produits sont bien renseignées
 
 
-## S6 - Modalité d’évaluation
+## S6 et 7 - Modalité d’évaluation
 
 * Selon un cahier des charges
 * Créer une landing page pour un produit
@@ -155,7 +155,7 @@
 # Mise en production
 
 
-## S7 - Objectifs pédagogiques
+## S8 - Objectifs pédagogiques
 
 * Comprendre les principes de mise en ligne d’un site
 * Comprendre les principes de mise en ligne d’un CMS
@@ -163,7 +163,7 @@
 * Comprendre le principe du versionning
 * Comprendre les outils de suivi et d’analyses
 
-## S7 - Critères d’évaluation
+## S8 - Critères d’évaluation
 
 **Exploiter son site**
 
@@ -178,7 +178,7 @@
 * La boutique crée en local est disponible en ligne
 
 
-## S7 - Modalité d’évaluation
+## S8 - Modalité d’évaluation
 
 * Validation par l’animateur sur le poste de l’apprenant
 
@@ -187,13 +187,13 @@
 # Personnaliser les thèmes
 
 
-## S8 et 9 - Objectifs pédagogiques
+## S9 - Objectifs pédagogiques
 
 * Comprendre le fonctionnement des langages front (HTML / CSS / Javascript)
 * Comprendre le fonctionnement du php
 * Modifier un thème Wordpress
 
-## S8 et 9 - Critères d’évaluation
+## S9 - Critères d’évaluation
 
 **Découverte du code.**
 
@@ -213,7 +213,7 @@ Attributs de mise en forme est comprise
 
 
 
-## S8 et 9 - Modalité d’évaluation
+## S9 - Modalité d’évaluation
 
 * Vérification par les apprenants
 
