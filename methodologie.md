@@ -119,8 +119,29 @@ Oui, si elles concernent de près ou de loin des éléments pas ou peu compris d
     * Présentation de son travail à un client
     * Expliquer les enjeux de sécurité à un client
 
+## Mise en production et analyse
+**Semaine 5**
+
+**Objectifs pédagogiques**
+
+    * Comprendre les principes de mise en ligne d’un site
+    * Comprendre les principes de mise en ligne d’un CMS
+    * Connaître les outils du webmaster
+    * Comprendre les outils de suivi et d’analyses
+
+**Modules**
+
+    * Mettre en ligne son site
+    * Filezilla
+    * Google Analytics
+
+**Ateliers**
+
+    * Mettre en ligne son site
+    * Relier son site à Google Analytics
+
 ## Étendre son site
-**Semaine 5 et 6**
+**Semaine 6 et 7**
 
 **Objectifs pédagogiques**
 
@@ -149,7 +170,7 @@ Oui, si elles concernent de près ou de loin des éléments pas ou peu compris d
 
 
 ## Personnaliser et hacker Wordpress
-**Semaines 7**
+**Semaines 8**
 
 **Objectifs pédagogiques**
 
@@ -169,26 +190,6 @@ Oui, si elles concernent de près ou de loin des éléments pas ou peu compris d
 
     * Personnaliser un thème
 
-## Mise en production et analyse
-**Semaine 8**
-
-**Objectifs pédagogiques**
-
-    * Comprendre les principes de mise en ligne d’un site
-    * Comprendre les principes de mise en ligne d’un CMS
-    * Connaître les outils du webmaster
-    * Comprendre les outils de suivi et d’analyses
-
-**Modules**
-
-    * Mettre en ligne son site
-    * Filezilla
-    * Google Analytics
-
-**Ateliers**
-
-    * Mettre en ligne son site
-    * Relier son site à Google Analytics
 
 ## Travailler en équipe
 **Semaine 9**
