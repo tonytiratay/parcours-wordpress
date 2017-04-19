@@ -7,7 +7,7 @@ Semaine 1
 * Comprendre le fonctionnement d’un site internet
 * Comprendre le fonctionnement de Wordpress
 
-** Modules**
+**Modules**
 
  * Comprendre internet
  * Comprendre le Web
@@ -35,7 +35,7 @@ Semaine 2, 3 et 4
 * Éviter / limiter les spams
 * Sécuriser ses contenus grâce aux sauvegardes
 
-** Modules**
+**Modules**
 
  * Installer Wordpress
  * Articles et pages
@@ -67,7 +67,7 @@ Semaine 5 et 6
 * Comprendre le référencement
 
 
-** Modules**
+**Modules**
 
  * Comprendre les extensions
  * Akismet
@@ -161,3 +161,14 @@ Semaine 10, 11 et 12
   * Renforcer son autonomie
   * Exprimer des éléments techniques à des collaborateurs
   * Argumenter sa proposition auprès d’un client
+
+  **Modules**
+
+    * Les principaux autres CMS
+    * Les commandes de base Git
+
+  **Ateliers**
+
+   * Monter un site avec un autre CMS
+   * Créer un cahier des charges à partir d'une rencontre client
+   * Créer un site à partir d'un cahier des charges
