@@ -63,7 +63,7 @@ Oui, si elles concernent de près ou de loin des éléments pas ou peu compris d
 # Parcours détaillé
 
 ## Le web et les CMS
-**Semaine 1**
+### **Semaine 1**
 
 **Objectifs Pédagogiques**
 
@@ -84,7 +84,7 @@ Oui, si elles concernent de près ou de loin des éléments pas ou peu compris d
     * Codecademy - HTML et CSS
 
 ## Découverte de Wordpress
-**Semaine 2, 3 et 4**
+### **Semaine 2, 3 et 4**
 
 **Objectifs pédagogiques**
 
@@ -120,7 +120,7 @@ Oui, si elles concernent de près ou de loin des éléments pas ou peu compris d
     * Expliquer les enjeux de sécurité à un client
 
 ## Mise en production et analyse
-**Semaine 5**
+### **Semaine 5**
 
 **Objectifs pédagogiques**
 
@@ -141,7 +141,7 @@ Oui, si elles concernent de près ou de loin des éléments pas ou peu compris d
     * Relier son site à Google Analytics
 
 ## Étendre son site
-**Semaine 6 et 7**
+### **Semaine 6 et 7**
 
 **Objectifs pédagogiques**
 
@@ -170,7 +170,7 @@ Oui, si elles concernent de près ou de loin des éléments pas ou peu compris d
 
 
 ## Personnaliser et hacker Wordpress
-**Semaines 8**
+### **Semaines 8**
 
 **Objectifs pédagogiques**
 
@@ -192,7 +192,7 @@ Oui, si elles concernent de près ou de loin des éléments pas ou peu compris d
 
 
 ## Travailler en équipe
-**Semaine 9**
+### **Semaine 9**
 
 **Objectifs pédagogiques**
 
@@ -216,7 +216,7 @@ Oui, si elles concernent de près ou de loin des éléments pas ou peu compris d
 
 
 ## S'ouvrir au monde professionnel
-**Semaine 10, 11 et 12**
+### **Semaine 10, 11 et 12**
 
 **Objectifs pédagogiques**
 
