@@ -2,19 +2,21 @@
 
 # Programme Classe en ligne
 
-Vous trouverez ci dessous une description de la méthodologie Simplon, ainsi qu’un aperçu mois par mois du déroulé de la formation.
+Vous trouverez ci dessous une description de la méthodologie Simplon, ainsi qu’un aperçu du déroulé de la formation.
 
-En fin de document, vous trouverez un aperçu non exhaustif des technologies que vous aurez l’opportunité de pratiquer sous forme de liste à puces.
+Pour connaitre le contenu détaillé de la formation, vous pouvez consulter la fiche "programme détaillé".
 
-Nous précisons bien qu’il s’agit d’une liste non exhaustive puisque l’animateur a pour mission d’adapter ces contenus à la classe, en fournissant d’éventuelles ressources supplémentaires en fonction de l’avancement de la classe.
+Toute personne souhaitant s’investir et avancer au delà de ce qui est prévu dans le programme en a la possibilité, et y est encouragée.
 
-Il est à noter également que toute personne souhaitant s’investir et avancer au delà de ce qui est prévu dans ce programme en a la possibilité. L’animateur est également là pour proposer à ceux qui en feront la demande des exercices et ressources personnalisées afin que chacun y trouve son compte.
+L’animateur est également là pour proposer à ceux qui en feront la demande des exercices et ressources personnalisées afin que chacun y trouve son compte.
 
 ## Un mot sur la méthodologie
 
 Le métier de développeur est, comme d’autres, particulier. De nouvelles technologies font sans cesse leur apparition, et celles déjà existantes sont en constante évolution. Nous considérons donc que le coeur de cette formation vise avant tout à fournir à nos apprenants une méthodologie d’apprentissage qui leur permette de continuer à évoluer dans ce milieu après la formation.
 
-L’apprentissage dans ce métier n’est jamais terminé, et ce n’est pas en 6 mois, ni même en un an, que l’on peut prétendre en savoir suffisamment pour monter tout type de projet. Par contre, 6 mois sont suffisants pour apprendre à apprendre. La documentation des différentes bibliothèques utilisées est le meilleur allié du développeur, et il n’existe pas de formation qui permette de s’en passer.
+L’apprentissage dans ce métier n’est jamais terminé, et ce n’est pas en 6 semaines, ni même en un an, que l’on peut prétendre en savoir suffisamment pour monter tout type de projet.
+
+Par contre, 6 semaines sont suffisantes pour apprendre à apprendre. La documentation des différentes ressources utilisées est votre meilleure alliée, et il n’existe pas de formation qui permette de s’en passer.
 
 Le rôle de l’animateur de la classe est donc double. Orienter les apprenants vers les bonnes ressources, et leur donner de la hauteur sur leur parcours et les différents chemins possibles pour parvenir à leurs ambitions.
 
@@ -42,10 +44,14 @@ Chaque semaine, un document de travail collaboratif est mis en place. Chaque app
 
 #### Pourquoi cette méthode ?
 
-Une fois la formation terminée, les blocages ne s’arrêteront pas pour autant. Il est primordial qu’une des premières compétences acquises soit la formulation correcte et explicite du problème rencontré. Les forums d’entraides font parti intégrante des outils du développeur, et il est nécessaire pour pouvoir avancer de bien expliquer ce qui bloque et ce qui a été tenté pour résoudre le souci.
+Une fois la formation terminée, les blocages ne s’arrêteront pas pour autant. Il est primordial qu’une des premières compétences acquises soit la formulation correcte et explicite du problème rencontré.
 
-Le fait de vous demander de suivre cette méthode dans un document collaboratif a l’avantage de permettre à chacun de voir comment les autres exposent leurs problèmes. Cela permet également (souvent en tous cas) de trouver à plusieurs une solution. Et en cas de non solution, tout le monde profite de la réponse de l’animateur.
+Les forums d’entraides font parti intégrante des outils du développeur, et il est nécessaire pour pouvoir avancer de bien expliquer ce qui bloque et ce qui a été tenté pour résoudre le souci.
+
+Le fait de vous demander de suivre cette méthode dans un document collaboratif a l’avantage de permettre à chacun de voir comment les autres exposent leurs problèmes.
+
+Cela permet également (souvent en tous cas) de trouver à plusieurs une solution. Et en cas de non solution, tout le monde profite de la réponse de l’animateur.
 
 #### Donc toutes les questions sont à poser dans ce document ?
 
-Oui, si elles concernent de près ou de loin des éléments pas ou peu compris de la formation. Mais avant de les considérer comme tel, n’oubliez pas que vous devez d’abord rechercher sur internet, et solliciter vos camarades (si c’est un problème technique). Pour toutes les questions annexes, vous pouvez les poser dans Discord.
+Oui, si elles concernent de près ou de loin des éléments pas ou peu compris de la formation. Mais avant de les considérer comme tel, n’oubliez pas que vous devez d’abord rechercher sur internet, et solliciter vos camarades (si c’est un problème technique).
