@@ -14,7 +14,7 @@ Semaine 1
  * Les CMS
  * Comprendre Wordpress
 
- **Ateliers**
+**Ateliers**
 
  * Reconstitution
  * Codecademy - HTML et CSS
@@ -49,7 +49,7 @@ Semaine 2, 3 et 4
  * Configuration
  * Sauvegarder son site
 
- **Ateliers**
+**Ateliers**
 
  * Créer un site pour un écrivain
  * Présentation de son travail à un client
@@ -75,7 +75,7 @@ Semaine 5 et 6
  * PageBuilder
  * JetPack
 
- **Ateliers**
+**Ateliers**
 
  * Trouver et présenter la bonne extension
  * Créer une landing page pour un produit
