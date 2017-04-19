@@ -169,6 +169,6 @@ Semaine 10, 11 et 12
 
   **Ateliers**
 
-       * Monter un site avec un autre CMS
-       * Créer un cahier des charges à partir d'une rencontre client
-       * Créer un site à partir d'un cahier des charges
+      * Monter un site avec un autre CMS
+      * Créer un cahier des charges à partir d'une rencontre client
+      * Créer un site à partir d'un cahier des charges
