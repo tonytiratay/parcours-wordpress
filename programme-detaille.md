@@ -16,7 +16,7 @@
 
 **Ateliers**
 
-    * Reconstitution
+    * Restitution
     * Codecademy - HTML et CSS
 
 ## Découverte de Wordpress
